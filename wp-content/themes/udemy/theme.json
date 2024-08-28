@@ -1,0 +1,16 @@
+ {
+    "$schema": "https://schemas.wp.org/wp/x.x/theme.json",
+    "version": 2,
+    "settings": {
+        "color":{
+            "defaultPalette": false
+        },
+        "blocks":{
+            "core/site-title":{
+                "color":{
+            "defaultPalette": true
+             }
+            }
+        }
+    }
+ }
