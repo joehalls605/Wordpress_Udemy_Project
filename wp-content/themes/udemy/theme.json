@@ -57,6 +57,13 @@
                 "slug": "u-pacifico",
                 "name": "Udemy Pacifico"
               }
+            ],
+            "fontSizes": [
+              { "slug": "small", "size": "0.75rem", "name": "Small" },
+              { "slug": "medium", "size": "1.25rem", "name": "Medium" },
+              { "slug": "large", "size": "2.25rem", "name": "Large" },
+              { "slug": "x-large", "size": "3rem", "name": "X-Large" },
+              { "slug": "gigantic", "size": "3.75rem", "name": "Gigantic" }
             ]
           }
         },
@@ -64,6 +71,12 @@
           "color": {
             "duotone": [],
             "customDuotone": false
+          }
+        },
+        "core/preformatted": {
+          "typography": {
+            "fontSizes": [],
+            "customFontSize": false
           }
         }
       },
@@ -80,6 +93,13 @@
             "slug": "u-rubik",
             "name": "Udemy Rubik"
           }
+        ],
+        "fontSizes": [
+          { "slug": "small", "size": "0.75rem", "name": "Small" },
+          { "slug": "medium", "size": "1.25rem", "name": "Medium" },
+          { "slug": "large", "size": "2.25rem", "name": "Large" },
+          { "slug": "x-large", "size": "3rem", "name": "X-Large" },
+          { "slug": "gigantic", "size": "3.75rem", "name": "Gigantic" }
         ]
       }
     },
